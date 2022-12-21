@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Preston's GitHub stats](https://github-readme-stats.vercel.app/api?username=preston-56&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56)](https://github.com/preston-56/github-readme-stats)
+
+![Preston's GitHub stats](https://github-readme-stats.vercel.app/api?username=preston-56&show_icons=true)
