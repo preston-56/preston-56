@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=radical)](https://github.com/preston-56/github-profile-trophy)
+
+
 
 
 
