@@ -5,6 +5,8 @@
 # Hi there 🌱	
 
 ## I am Preston, an obsessed fullstack Software Developer.
+![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
+
 
 <!--
 **preston-56/preston-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
