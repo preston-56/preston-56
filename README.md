@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
+</div>
+
+### Hi there ![image](https://user-images.githubusercontent.com/91598956/213024582-5463f36f-5eb8-470d-b256-e5ae983ef572.png)
+
+I am Preston, an obsessed fullstack software developer
 
 <!--
 **preston-56/preston-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
-</div>
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
 
