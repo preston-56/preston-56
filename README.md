@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
 </div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=preston-56&show_icons=true&theme=dracula)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=preston-56&theme=react&line_height=40&hide=css"/> </a>
 
