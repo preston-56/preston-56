@@ -4,7 +4,7 @@
 
 # Hi there 🌱	
 
-## I am Preston, an obsessed fullstack software developer
+## I am Preston, an obsessed fullstack Software Developer.
 
 <!--
 **preston-56/preston-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
