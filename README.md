@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2)
 
+https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2
 
 
 
