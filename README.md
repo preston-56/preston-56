@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 </div>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=preston-56&count_private=true)](https://github.com/preston-56/github-readme-stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=preston-56)](https://github.com/preston-56/github-readme-stats
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=preston-56&theme=react&line_height=40&hide=css"/> </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56)](https://github.com/preston-56/github-readme-stats)
 
 
 
