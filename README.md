@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=preston-56&theme=react&line_height=40&hide=css"/> </a>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 
 
 
