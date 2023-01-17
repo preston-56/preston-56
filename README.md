@@ -40,19 +40,9 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="40" height="40"/> </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=300%2C300&ssl=1" alt="JS" width="40" height="40"/> </a> 
- 
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://repository-images.githubusercontent.com/404070783/8fa47bf6-e406-4bdd-aa3e-449249ec2e55" alt="webpack" width="40" height="40"/> </a> <br>
-
-<a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node-js" width="40" height="40"/> </a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=300%2C300&ssl=1" alt="JS" width="40" height="40"/> </a> <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node-js" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRms1LY0mhZz2BXWbcVDqoUbJEPOGL_pRdD2wvfeF-C6KbEtWyBFZwpV5wv_YYc_STN-uc&usqp=CAU" alt="react" width="40" height="40"/> </a>
-
-<a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/12-120179_best-free-ruby-png-ruby-programming-language-logo.png" alt="ruby" width="40" height="40"/> </a> 
-
-<a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="rails" width="40" height="40"/> </a> 
-  <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/12-120179_best-free-ruby-png-ruby-programming-language-logo.png" alt="ruby" width="40" height="40"/> </a> <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="rails" width="40" height="40"/> </a> <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" width="40" height="40"/> </a>
 
 <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
   
