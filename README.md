@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=preston-56)](https://github.com/preston-56/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56)](https://github.com/preston-56/github-readme-stats=true&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56)](https://github.com/preston-56/github-readme-stats=true&theme=radical) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=preston-56&count_private=true)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=preston-56&theme=react&line_height=40&hide=css"/> </a>
 
