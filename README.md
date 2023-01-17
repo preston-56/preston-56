@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
 </div>
 
-### Hi there ![image](https://user-images.githubusercontent.com/91598956/213024582-5463f36f-5eb8-470d-b256-e5ae983ef572.png)
+### Hi there :grinning:	
 
 I am Preston, an obsessed fullstack software developer
 
