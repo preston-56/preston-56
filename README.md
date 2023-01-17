@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
 </div>
 
-### Hi there 🌱	
+# Hi there 🌱	
 
-#### I am Preston, an obsessed fullstack software developer
+## I am Preston, an obsessed fullstack software developer
 
 <!--
 **preston-56/preston-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
