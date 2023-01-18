@@ -11,6 +11,8 @@
 - 📫 How to reach me: prestonosoro56@gmail.com
 - ⚡ Fun fact: I love the art of unlearning to learn.
 
+# My Stats
+
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
 
@@ -46,6 +48,13 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+# Contact Me
+
+## CONTACT ME
+- [E-mail](prestonosoro@gmail.com)
+- [PORTFOLIO](https://preston-56.github.io/Portfolio/)
+- [Twitter](https://twitter.com/PrestonOsoro)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
