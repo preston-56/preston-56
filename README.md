@@ -53,6 +53,8 @@
 - [PORTFOLIO](https://preston-56.github.io/Portfolio/)
 - [Twitter](https://twitter.com/PrestonOsoro)
 
+# My Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
 
