@@ -29,7 +29,7 @@
 <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/12-120179_best-free-ruby-png-ruby-programming-language-logo.png" alt="ruby" width="40" height="40"/> </a> <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="rails" width="40" height="40"/> </a> <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=radical)](https://github.com/preston-56/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
 
 
