@@ -12,8 +12,6 @@
 - ⚡ Fun fact: I love the art of unlearning to learn.
 
 # My Stats
-
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preston-56&theme=radical)](https://git.io/streak-stats)
@@ -48,9 +46,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-# Contact Me
-
 ## CONTACT ME
 - [E-mail](prestonosoro@gmail.com)
 - [PORTFOLIO](https://preston-56.github.io/Portfolio/)
