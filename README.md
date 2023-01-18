@@ -49,7 +49,7 @@
 
 ## CONTACT ME
 
-- [E-mail](prestonosoro@gmail.com)
+- [E-mail](mailto:prestonosoro@gmail.com)
 - [PORTFOLIO](https://preston-56.github.io/Portfolio/)
 - [Twitter](https://twitter.com/PrestonOsoro)
 
