@@ -19,7 +19,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.w3schools.com/whatis/img_css.jpg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
