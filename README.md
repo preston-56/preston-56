@@ -52,6 +52,7 @@
 - [E-mail](mailto:prestonosoro@gmail.com)
 - [PORTFOLIO](https://preston-56.github.io/Portfolio/)
 - [Twitter](https://twitter.com/PrestonOsoro)
+- [LinkedIn](https://www.linkedin.com/in/preston-osoro-520a4a157/)
 
 # My Trophies
 
