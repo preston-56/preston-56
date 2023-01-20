@@ -56,6 +56,8 @@
 
 # My Trophies
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45a40a60-c63f-4c44-ba37-d73b052c8306/deploy-status)](https://app.netlify.com/sites/famous-flan-85190d/deploys)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
 
