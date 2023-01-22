@@ -65,7 +65,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=solarized_dark)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dracula)
 
 ## Listening...:headphones:
 
