@@ -71,6 +71,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
+## Listening...:microphone:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
