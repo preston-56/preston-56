@@ -3,8 +3,7 @@
 </div>
 
 # Hi there 🌱	
-
-## I am Preston, an obsessed fullstack Software Developer.
+## I'm Preston, an obsessed fullstack Software Developer.
 ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
 
 - 🔭 I’m currently working on how to become a prolific technical writer.
