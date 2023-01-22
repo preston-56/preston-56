@@ -65,6 +65,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=solarized_dark)
+
 ## Listening...:headphones:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314kp3syg3hoe6us7i2hfqf5siji&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
