@@ -72,7 +72,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
 ## Listening...:microphone:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=314kp3syg3hoe6us7i2hfqf5siji&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314kp3syg3hoe6us7i2hfqf5siji&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)]]
 
 
 
