@@ -16,7 +16,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=preston-56&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&hide=html&layout=compact&theme=dark" /></td>      
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true" /></td>      
     </tr>   
   </table>
 </center>
@@ -25,7 +25,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preston-56&theme=radical)](https://git.io/streak-stats)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats) -->
 
 
 
