@@ -20,7 +20,8 @@
     </tr>   
   </table>
 </center>
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats) -->
+
+## GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preston-56&theme=radical)](https://git.io/streak-stats)
 
