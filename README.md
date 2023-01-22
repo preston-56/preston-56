@@ -67,7 +67,7 @@
 
 ## Listening...:headphones:
 
-[![spotify-github-profile]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=314kp3syg3hoe6us7i2hfqf5siji&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314kp3syg3hoe6us7i2hfqf5siji&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314kp3syg3hoe6us7i2hfqf5siji&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 
 
