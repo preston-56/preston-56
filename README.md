@@ -24,12 +24,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preston-56&theme=radical)](https://git.io/streak-stats)
 
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats) -->
-
-
-
-
 ## Languages and Tools
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
@@ -71,8 +65,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
-## Listening...:microphone:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+## Listening...:headphones:
+
+[![spotify-github-profile]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=314kp3syg3hoe6us7i2hfqf5siji&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314kp3syg3hoe6us7i2hfqf5siji&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)
 
 
 
