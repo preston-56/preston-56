@@ -65,7 +65,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=preston-56&theme=dracula)](https://github.com/preston-56/github-profile-trophy)
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dracula)
+![Preston Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preston-56&theme=dark&layout=compact)
+![Preston Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preston-56&theme=dark&layout=compact)
+
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dark&layout=compact)
 
 ## Listening...:headphones:
 
