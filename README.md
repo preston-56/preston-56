@@ -11,11 +11,20 @@
 - ⚡ Fun fact: I love the art of unlearning to learn.
 
 ## &#x1f4c8; GitHub Stats
-<center>
+<!-- <center>
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=preston-56&count_private=true&show_icons=true&theme=dark&layout=compact" /></td> 
         <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=dark&layout=compact" /></td>      
+    </tr>   
+  </table>
+</center> -->
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gmatieso&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmatieso&hide=html&layout=compact&theme=dark" /></td>      
     </tr>   
   </table>
 </center>
