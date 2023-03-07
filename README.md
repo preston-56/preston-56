@@ -71,7 +71,7 @@
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dracula)
 
 # Wakatime Week Status
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=preston-56)](https://github.com/preston-56/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/e24c2b21-568a-49a7-a878-61aff0da325c.svg)](https://wakatime.com/@e24c2b21-568a-49a7-a878-61aff0da325c)
 
 ## Listening...:headphones:
 
