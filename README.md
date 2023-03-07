@@ -70,6 +70,9 @@
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dracula)
 
+# Wakatime Week Status
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=preston-56)](https://github.com/preston-56/github-readme-stats)
+
 ## Listening...:headphones:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314kp3syg3hoe6us7i2hfqf5siji&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
