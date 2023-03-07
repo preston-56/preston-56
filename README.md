@@ -15,7 +15,10 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=preston-56&count_private=true&show_icons=true&theme=dark&layout=compact" /></td> 
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&hide=compact&theme=dark" /></td>  
+        <td>
+<!--           <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&hide=compact&theme=dark" /> -->
+          [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=radical&show_icons=true)](https://github.com/preston-56/github-readme-stats)
+      </td>  
 <!--       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&theme=html&layout=compact&theme=dark" /></td> -->
 <!--       [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats) -->
     </tr>   
