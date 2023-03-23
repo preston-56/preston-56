@@ -7,7 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
 
 - 🔭 I’m currently working on how to become a prolific technical writer.
-- 📫 How to reach me: prestonosoro56@gmail.com
 - ⚡ Fun fact: I love the art of unlearning to learn.
 
 ## &#x1f4c8; GitHub Stats
