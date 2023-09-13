@@ -6,8 +6,8 @@
 ## I'm Preston, an obsessed fullstack Software Developer.
 ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
 
-- 🔭 I’m currently working on how to become a prolific technical writer.
-- ⚡ Fun fact: I love the art of unlearning to learn.
+- 🔭 Learning to write and doument technical stuff.
+- ⚡ Unlearning to learn.
 
 ## &#x1f4c8; GitHub Stats
 <center>
