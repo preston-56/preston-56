@@ -71,14 +71,6 @@
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dracula)
 
-# Wakatime Status
-[![wakatime](https://wakatime.com/badge/user/e24c2b21-568a-49a7-a878-61aff0da325c.svg)](https://wakatime.com/@e24c2b21-568a-49a7-a878-61aff0da325c)
-
-## Listening... :headphones:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314kp3syg3hoe6us7i2hfqf5siji&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
-
 
 
 
