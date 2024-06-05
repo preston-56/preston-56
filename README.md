@@ -55,10 +55,7 @@
 
 ## CONTACT ME
 
-- [E-mail](mailto:prestonosoro@gmail.com)
 - [PORTFOLIO](https://preston-56.netlify.app/)
-- [Twitter](https://twitter.com/PrestonOsoro)
-- [LinkedIn](https://www.linkedin.com/in/preston-osoro/)
 
 # GitHub Trophies
 
