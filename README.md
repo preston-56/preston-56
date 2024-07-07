@@ -6,7 +6,7 @@
 ## I'm Preston, an obsessed fullstack Software Developer.
 ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
 
-- 🔭 Learning to solve complex algos
+- 🔭 Learning how to solve complex algos
 
 ## &#x1f4c8; GitHub Stats
 <center>
