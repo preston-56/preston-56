@@ -33,9 +33,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## CONTACT ME
+## 📞 **Get in Touch**
 
-- [PORTFOLIO](https://preston-56.netlify.app/)
+- 📂 [**Portfolio**](https://preston-56.netlify.app/) 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Octocat" width="30"/> 📈 **Contribution Overview**
 
