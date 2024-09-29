@@ -14,8 +14,10 @@
     <tr>
 <!--         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=preston-56&count_private=true&show_icons=true&theme=dark&layout=compact" /></td> 
        -->
-        <td>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preston-56&theme=radical)](https://git.io/streak-stats) </td>
-        <td>
+      <td> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=preston-56&theme=radical" alt="GitHub Streak" /> 
+      </td>
+      <td>
           <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-56&hide&layout=compact&theme=dark" />
         </td>  
     </tr>   
