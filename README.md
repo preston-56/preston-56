@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
 </div>
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="20"/> GitHub Stats
+## ![GitHub Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png) GitHub Stats
 <center>
   <table>
     <tr>
