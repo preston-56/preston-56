@@ -1,10 +1,9 @@
 
+🧠 Meta-Learning | Full Stack 🌱 | ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
+---
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
 </div>
 
-
-🧠 Meta-Learning | Full Stack 🌱 | ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
----
 ## &#x1f4c8; GitHub Stats
 <center>
   <table>
