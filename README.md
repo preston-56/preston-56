@@ -20,9 +20,7 @@
   </table>
 </center>
 
-## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preston-56&theme=radical)](https://git.io/streak-stats)
 
 ## Languages and Tools
 <p align="left"> 
