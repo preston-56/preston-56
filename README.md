@@ -37,12 +37,16 @@
 
 - [PORTFOLIO](https://preston-56.netlify.app/)
 
-# GitHub Trophies
+## <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Octocat" width="30"/> 📈 **Contribution Overview**
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preston-56&theme=dracula)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preston-56&theme=dracula)
+<table>
+    <tr>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preston-56&theme=dracula" alt="Repos per Language" /></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preston-56&theme=dracula" alt="Most Commit Language" /></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dracula" alt="GitHub Summary" /></td>
+    </tr>
+</table>
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston-56&theme=dracula)
 
 
 
