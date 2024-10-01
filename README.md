@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
 </div>
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Octocat" width="30"/> **Stack Contribution Metrics**
+## **Stack Contribution Metrics**
 <center>
   <table>
     <tr>
@@ -37,7 +37,7 @@
 
 - 📂 [**Portfolio**](https://preston-56.netlify.app/) 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Octocat" width="30"/> 📈 **Contribution Overview**
+## **Contribution Overview**
 
 <table>
     <tr>
