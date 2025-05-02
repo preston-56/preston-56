@@ -1,5 +1,5 @@
 
-🧠 Meta-Learning | Software Craftsman | ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
+🧠 Meta-Learning | ![](https://komarev.com/ghpvc/?username=preston-56&color=brightgreen)
 ---
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" width="300"/>
 </div>
