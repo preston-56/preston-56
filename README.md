@@ -33,10 +33,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## 🔗 **Get in Touch**
-
-- 📂 [**Portfolio**](https://preston-56.netlify.app/) 
-
 ## **Contribution Overview**
 
 <table>
